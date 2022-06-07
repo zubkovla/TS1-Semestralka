@@ -1,0 +1,16 @@
+# ACTS Test Suite Generation: Tue Jun 07 17:53:08 CEST 2022
+#  '*' represents don't care value 
+# Degree of interaction coverage: 2
+# Number of parameters: 6
+# Maximum number of values per parameter: 3
+# Number of configurations: 9
+Telefon,PC,Monitor,Mesto,Mesic,Rok
+Samsung galaxy s6,MacBook Pro,ASUS Full HD,Praha,12,2022
+Samsung galaxy s6,Sony vaio i5,Apple monitor 24,Londýn,1,1900
+Samsung galaxy s6,MacBook Pro,Apple monitor 24,Brasília,12,1900
+Sony xperia z5,Sony vaio i5,ASUS Full HD,Praha,1,2022
+Sony xperia z5,MacBook Pro,Apple monitor 24,Londýn,12,2022
+Sony xperia z5,Sony vaio i5,ASUS Full HD,Brasília,1,1900
+Nexus 6,MacBook Pro,Apple monitor 24,Praha,1,1900
+Nexus 6,Sony vaio i5,ASUS Full HD,Londýn,12,2022
+Nexus 6,MacBook Pro,ASUS Full HD,Brasília,1,2022
